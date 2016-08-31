@@ -1,12 +1,12 @@
 package demo;
 
 /**
- * @author ÍõÊ¥²©
- * ¹¦ÄÜ:
- * ÏÂÎç2:15:59
+ * @author ÃÃµÃŠÂ¥Â²Â©
+ * Â¹Â¦Ã„Ãœ:
+ * ÃÃ‚ÃÃ§2:15:59
  */
 public class Demo {
 	public static void main(String[] args) {
-		System.out.println("demo");
+		System.out.println("æµ‹è¯•å®Œæˆ");
 	}
 }
