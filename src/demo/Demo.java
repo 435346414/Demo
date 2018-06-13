@@ -1,9 +1,7 @@
 package demo;
 
 /**
- * @author ÍõÊ¥²©
- * ¹¦ÄÜ:
- * ÏÂÎç2:15:59
+ * @author 王圣博
  */
 public class Demo {
 	public static void main(String[] args) {
